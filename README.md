@@ -135,13 +135,33 @@ AI-driven automation platform
 
 ## 📊 GitHub Summary
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryan0854&theme=tokyonight)
+<table>
+<tr>
+<td>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aryan0854&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryan0854&theme=tokyonight"/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryan0854&theme=tokyonight)
+</td>
+<td>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryan0854&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aryan0854&theme=tokyonight"/>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryan0854&theme=tokyonight"/>
+
+</td>
+<td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryan0854&theme=tokyonight"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
