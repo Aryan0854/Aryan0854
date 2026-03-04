@@ -174,9 +174,9 @@ AI-driven automation platform
 # 🌐 Connect
 
 📧 [aryanofficial0854@gmail.com](mailto:aryanofficial0854@gmail.com)
-🔗 linkedin.com/in/aryan0854
-💻 github.com/Aryan0854
-🌍 aryanportfolio.me
+🔗 [linkedin.com/in/aryan0854](https://www.linkedin.com/in/aryan0854/)
+💻 [github.com/Aryan0854](https://github.com/Aryan0854)
+🌍 [aryanportfolio.me](https://aryanportfolio.me/)
 
 ---
 
