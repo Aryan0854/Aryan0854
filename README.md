@@ -123,7 +123,9 @@ AI-driven automation platform
 
 # 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aryan0854&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Aryan0854&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
