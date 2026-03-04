@@ -133,6 +133,18 @@ AI-driven automation platform
 
 ---
 
+## 📊 GitHub Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryan0854&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aryan0854&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryan0854&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryan0854&theme=tokyonight)
+
+---
+
 # 🌐 Connect
 
 📧 [aryanofficial0854@gmail.com](mailto:aryanofficial0854@gmail.com)
