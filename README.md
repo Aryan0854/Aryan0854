@@ -8,6 +8,16 @@ Currently pursuing **B.Tech in Computer Science (AI & ML)** while building real-
 
 ---
 
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Aryan0854/Aryan0854/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+
 # ⚡ Engineering Focus
 
 🧠 Artificial Intelligence & Machine Learning
@@ -116,14 +126,6 @@ AI-driven automation platform
 # 📈 Contribution Graph
 
 [![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan0854\&theme=tokyo-night\&hide_border=true)](https://github.com/Aryan0854)
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Aryan0854/Aryan0854/blob/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
