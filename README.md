@@ -85,29 +85,12 @@ AI-driven automation platform
 
 # 🛠 Technology Stack
 
-### Languages
-
-Python • Java • C • JavaScript
-
-### Frameworks
-
-React • Flask • Django • OpenCV • NumPy • Pandas
-
-### AI / ML
-
-TensorFlow • Scikit-learn • LangChain • Prompt Engineering • GenAI Pipelines
-
-### Cloud & DevOps
-
-Microsoft Azure • Terraform • Docker • CI/CD • Linux
-
-### Databases
-
-SQL • PostgreSQL • MySQL • ChromaDB
-
-### Tools
-
-Git • GitHub • VS Code • Postman • Raspberry Pi
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
@@ -132,19 +115,25 @@ Git • GitHub • VS Code • Postman • Raspberry Pi
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Aryan0854/Aryan0854/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://github.com/Aryan0854/Aryan0854/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
 # 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aryan0854\&theme=tokyonight\&margin-w=10\&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Aryan0854&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
 # 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aryan0854\&color=blue)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Aryan0854&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
