@@ -96,8 +96,8 @@ Presidency University, Bengaluru — B.Tech, Computer Science Engineering (AI & 
 ## 📈 Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Aryan0854/Aryan0854/blob/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://github.com/Aryan0854/Aryan0854/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan0854/Aryan0854/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Aryan0854/Aryan0854/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
