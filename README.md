@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=180&section=header&text=Aryan%20Mishra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20turned%20Product%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/aryan0854/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aryan-mishra-80ba28223"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:aryanofficial0854@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://aryanportfolio.me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/Aryan0854"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -54,22 +54,21 @@ Incoming M.Sc. Applied Data Science & AI — SRH Heidelberg, Oct 2026</i>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
 
 **Data & Infra**
 <br/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=3&width=100%"/>
 
-## 🧠 Systems I've Built
+## 🧠 Featured Projects
 
 <table>
 <tr>
@@ -78,68 +77,86 @@ Incoming M.Sc. Applied Data Science & AI — SRH Heidelberg, Oct 2026</i>
 ### 🤖 AI Resume Intelligence Platform
 <sub>`2026` · Next.js · TypeScript · Supabase · Gemini 2.0 Flash · GPT-4o Mini</sub>
 
-- 6-dimension scoring engine (ATS, Technical, Impact, Formatting, Clarity, Consistency)
-- Local rule-based scoring over external LLM calls → lower cost, no third-party dependency in critical path
-- Row-level security on PostgreSQL, containerized for self-hosted deploy
+6-dimension scoring engine (ATS, Technical, Impact, Formatting, Clarity, Consistency) built at Infinite Computer Solutions for the Iron Mountain project. Local rule-based scoring over external LLM calls for cost and dependency control.
 
-**[→ View Repo](https://github.com/Aryan0854/REPLACE-ME)**
+`🔒 Institutional project — Infinite Computer Solutions`
 
 </td>
-<td width="50%" valign="top">
-
-### 🔍 Offline Multimodal RAG
-<sub>`2026` · Python · Vector Search · Air-gapped deployment</sub>
-
-- Cross-modal retrieval system, fully offline, national-security-grade use cases
-- **82%** Precision@5
-- **94%** citation accuracy
-- Sub-10s query latency
-
-**[→ View Repo](https://github.com/Aryan0854/REPLACE-ME)**
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎬 PIB Multilingual Video Platform
 <sub>`2026` · AI Speech Synthesis · Video Generation Pipeline</sub>
 
-- Converts government press releases into multilingual video, automatically
-- **94%** speech synthesis accuracy
-- **87%** user comprehension satisfaction
-- Basis for a published IEEE paper
+Converts government press releases into multilingual video automatically. **94%** speech synthesis accuracy, **87%** user comprehension satisfaction.
 
-**[→ View Repo](https://github.com/Aryan0854/REPLACE-ME)**
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 5G AI Resource Allocation Simulator
-<sub>`2025` · Python · Simulation · Scheduling Algorithms</sub>
-
-- AI-based scheduling for network resource allocation
-- 50+ experiments across latency, fairness, throughput, QoE
-- **300–400%** throughput improvement over baseline
-
-**[→ View Repo](https://github.com/Aryan0854/REPLACE-ME)**
+`📄 Published — IEEE 2026, see Publications ↓`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 👁️ Face Recognition System
-<sub>`2024` · Python · OpenCV · Raspberry Pi</sub>
+### 📡 5G AI Resource Allocation Simulator
+<sub>`2025` · Python · Simulation · Scheduling Algorithms</sub>
 
-- Real-time biometric ID for missing-person workflows
-- **92%+** recognition accuracy
-- 🏆 Awarded *Best Societally Relevant Project*
+AI-based scheduling for network resource allocation across 50+ experiments evaluating latency, fairness, throughput, and QoE. **300–400%** throughput improvement over baseline.
 
-**[→ View Repo](https://github.com/Aryan0854/face-Recognition)**
+`🎓 Academic project — Presidency University`
 
 </td>
 <td width="50%" valign="top">
+
+### 🔍 Offline Multimodal RAG System
+<sub>Python · Vector Search · Air-gapped deployment</sub>
+
+Fully offline, multimodal RAG system — ingests, indexes, and queries heterogeneous sources including DOCs, PDFs, and images without any external API calls.
+
+**[→ View Repo](https://github.com/Aryan0854/Offline-Multimodal-RAG-System)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💸 Expensifie
+<sub>Personal Finance · Automated Categorization</sub>
+
+Smart finance tracker that automatically detects transactions from bank SMS, categorizes spend, and learns merchant categories over time to surface spending insights.
+
+**[→ View Repo](https://github.com/Aryan0854/Expensifie)**
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Sales Analytics & Forecasting Platform
+<sub>Next.js · React · TypeScript · ML</sub>
+
+Interactive sales analytics platform with dashboards, forecasting, and machine-learning-driven insights for revenue trend analysis.
+
+**[→ View Repo](https://github.com/Aryan0854/sales)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎤 AI-Interview
+<sub>TypeScript · Proctored Assessment Platform</sub>
+
+Actively developed AI-powered technical interview platform with proctoring and structured evaluation flows.
+
+**[→ View Repo](https://github.com/Aryan0854/AI-Interview)**
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Face Recognition System
+<sub>Python · OpenCV · Raspberry Pi</sub>
+
+Real-time biometric identification platform built for missing-person identification workflows. **92%+** recognition accuracy.
+🏆 Awarded *Best Societally Relevant Project*
+
+**[→ View Repo](https://github.com/Aryan0854/face-Recognition)**
 
 </td>
 </tr>
