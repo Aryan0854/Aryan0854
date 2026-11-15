@@ -18,18 +18,20 @@ Incoming M.Sc. Applied Data Science & AI — SRH Heidelberg, Oct 2026</i>
 
 <div align="center">
 
-### 🐟 My GitHub Koi
-
-<p align="center">
-  <img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
-</p>
-
 ### 🐍 Live from my contribution graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan0854/Aryan0854/output/github-contribution-grid-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/Aryan0854/Aryan0854/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
+
+
+### 🐟 My GitHub Koi
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
+</p>
+
 
 </div>
 
