@@ -18,6 +18,12 @@ Incoming M.Sc. Applied Data Science & AI — SRH Heidelberg, Oct 2026</i>
 
 <div align="center">
 
+### 🐟 My GitHub Koi
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
+</p>
+
 ### 🐍 Live from my contribution graph
 
 <picture>
@@ -168,7 +174,7 @@ Real-time biometric identification platform built for missing-person identificat
 
 <table>
 <tr><th align="left">Role</th><th align="left">Company</th><th align="left">Timeline</th><th align="left">Focus</th></tr>
-<tr><td>AI/ML Intern — Iron Mountain Project</td><td>Infinite Computer Solutions</td><td>May 2026–Present</td><td>Resume-scoring product · PostgreSQL data architecture with RLS</td></tr>
+<tr><td>AI/ML Intern — Iron Mountain Project</td><td>Infinite Computer Solutions</td><td>May 2026–Nov 2026</td><td>Resume-scoring product · PostgreSQL data architecture with RLS</td></tr>
 <tr><td>Associate Infrastructure Consultant</td><td>Capgemini</td><td>Feb–Apr 2026</td><td>GenAI + cloud automation POCs on Azure/Terraform</td></tr>
 <tr><td>Data Research Intern</td><td>Xtelify Limited</td><td>Aug–Oct 2025</td><td>Python pipelines · 50,000+ records · +30% data efficiency</td></tr>
 <tr><td>AI/ML Intern</td><td>Gaia Smart Cities</td><td>May–Aug 2025</td><td>IoT automation modules · 100+ devices</td></tr>
